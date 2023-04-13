@@ -1,5 +1,5 @@
 # APLIKASI KEDAI KOPI
-Aplikasi penggajian ini adalah tugas dari mata kuliah PBO, dalam aplikasi ini user dapat memesan beberapa menu yang tersedia dan menentukan jumlah menu yang dipesan. Sistem akan melakukan perhitungan meliputi harga pesanan, diskon dan ppn sehingga akan ditotal menjadi harga yang harus dibayar.
+Aplikasi Kedai Kopi ini adalah tugas dari mata kuliah PBO, dalam aplikasi ini user dapat memesan beberapa menu kopi yang tersedia dan menentukan jumlah menu yang dipesan. Sistem akan melakukan perhitungan meliputi harga pesanan, diskon dan ppn sehingga akan ditotal menjadi harga yang harus dibayar.
 ## Penjelasan Program
 #### Pembuatan Class Pesanan :
 kelas Pesanan memiliki beberapa private object/ variable yang tidak boleh dipanggil selain di dalam kelas Pesanan. Apabila object ingin dipanggil selain di dalam kelas Pesanan, maka harus menggunakan fungsi yang dibuat untuk kebutuhan tersebut.
